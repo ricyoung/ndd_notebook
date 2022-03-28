@@ -5,3 +5,4 @@
 queries/chartsv4D.csv
 queries/chartsv4C.csv
 *.csv
+*.tmp
