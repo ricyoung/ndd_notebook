@@ -1,26 +1,168 @@
 "Alzheimer's Disease" and "Lewy Body Disease"
+AD
+AD - Alzheimer's Disease
+ALS
+ALS (Amyotrophic Lateral Sclerosis)
 ALS-Frontotemporal Dementia
+ALZHEIMER Disease
+AMYOTROPHIC LATERAL SCLEROSIS
+Acquired Vocal Cord Palsy
+Adult Cerebral Palsy
 Advanced Idiopathic Parkinson's Disease
 Advanced Parkinson's Disease
 Advanced Parkinson's With Dysphagia
 Advanced Stage Parkinson's Disease
+Agitation Associated With Alzheimer's Disease
+Agitation Associated With Dementia of the Alzheimer's Type
+Agitation and Aggression in Alzheimer's Disease
+Agitation in Dementia, Including Alzheimer's Disease
+Agitation in Patients With Dementia of the Alzheimer's Type
+Altered Behavior in Alzheimer Disease
+Alzheimer Dementia
+Alzheimer Dementia (AD)
+Alzheimer Disease
+Alzheimer Disease (AD)
+Alzheimer Disease 1
+Alzheimer Disease 10
+Alzheimer Disease 11
+Alzheimer Disease 12
+Alzheimer Disease 13
+Alzheimer Disease 14
+Alzheimer Disease 15
+Alzheimer Disease 16
+Alzheimer Disease 17
+Alzheimer Disease 18
+Alzheimer Disease 19
+Alzheimer Disease 2
+Alzheimer Disease 2 Due to Apoe4 Isoform
+Alzheimer Disease 3
+Alzheimer Disease 4
+Alzheimer Disease 5
+Alzheimer Disease 6
+Alzheimer Disease 7
+Alzheimer Disease 8
+Alzheimer Disease 9, Late-Onset
+Alzheimer Disease Focal
+Alzheimer Disease and Related Dementias
+Alzheimer Disease and Related Dementias (ADRD)
+Alzheimer Disease or Associated Disorder
+Alzheimer Disease, At Risk
+Alzheimer Disease, Early Onset
+Alzheimer Disease, Early-Onset
+Alzheimer Disease, Late Onset
+Alzheimer Disease, Pain
+Alzheimer Disease, Protection Against
+Alzheimer Disease; Prodromal
+Alzheimer Type Dementia
 Alzheimer or Mild Cognitive Impairment
+Alzheimer' Disease
+Alzheimer's
+Alzheimer's Dementia
+Alzheimer's Desease
+Alzheimer's Disease
+Alzheimer's Disease (AD)
+Alzheimer's Disease (AD) and Related Disorders
+Alzheimer's Disease (Incl Subtypes)
+Alzheimer's Disease Dementia
+Alzheimer's Disease Diagnosis
+Alzheimer's Disease Prevention
+Alzheimer's Disease Psychosis
+Alzheimer's Disease Related Disorders
+Alzheimer's Disease With Vascular Pathology
+Alzheimer's Disease and Related Dementia
+Alzheimer's Disease and Related Dementias
+Alzheimer's Disease in Down Syndrome
+Alzheimer's Disease or Related Disorder
+Alzheimer's Disease or Vascular Dementia
+Alzheimer's Disease, Early Onset
+Alzheimer's Disease, Healthy Volunteer
+Alzheimer's Disease; Dementia
+Alzheimer's Type
+Alzheimer's Type Dementia
+Alzheimer; Early Onset
+Alzheimers
+Alzheimers Disease
+Alzheimers Disease, Familial
+Alzheimers' Disease
+Alzheimers, Falls, Aging in Place
+Alzheimer´s Disease
+Alzheiner's Disease
 Amnestic Mild Cognitive Impairment
 Amnestic-Mild Cognitive Impairment
+Amyotrophia
+Amyotrophic Lateral Sclerosis
+Amyotrophic Lateral Sclerosis & Other Neuromuscular Disorders
+Amyotrophic Lateral Sclerosis (ALS)
+Amyotrophic Lateral Sclerosis 11
+Amyotrophic Lateral Sclerosis Type 4
+Amyotrophic Lateral Sclerosis With Dementia
 Amyotrophic Lateral Sclerosis With Frontotemporal Dementia
 Amyotrophic Lateral Sclerosis and/or Frontotemporal Dementia
+Amyotrophic Lateral Sclerosis, Familial
+Amyotrophic Lateral Sclerosis, Sporadic
 Antiparkinsonism Drugs Causing Adverse Effects in Therapeutic Use
 Asymmetric Parkinson's Disease
+Ataxic Infantile Cerebral Palsy
+Atypical Alzheimer's Disease
+Atypical Alzheimers Disease
 Atypical Parkinson Disease
 Atypical Parkinsonism
 Autonomic Disturbances in Parkinson's Disease
+Autosomal Dominant Cases of Alzheimer 's Disease
 Behavioral Variant Frontotemporal Dementia
 Behavioral Variant Frontotemporal Dementia (bvFTD)
 Behavioral Variant of Frontotemporal Dementia
+Behavioral and Psychological Symptoms in Alzheimer's Disease
+Bell Palsy
+Bell's Palsy
+Bilateral Cerebral Palsy
+Bilateral Spastic Cerebral Palsy
+Brachial Obstetrical Palsy
+Brachial Plexus Palsy
+Brachial Plexus Palsy Due to Birth Trauma
+Brain DHA Delivery and Alzheimer's Disease Risk
+Brain Neuroimaging Biomarkers in Huntington Disease
+C9ORF72 Amyotrophic Lateral Sclerosis (ALS)
+C9orf72 Amyotrophic Lateral Sclerosis (ALS)
 CBD
+CP (Cerebral Palsy)
 CTE
 Carbon Monoxide-induced Parkinsonism
+Caregiver of Huntington's Disease Patient
+Caregivers of Alzheimer's Disease or Memory Problem Patients
+Cerebral Palsy
+Cerebral Palsy (CP)
+Cerebral Palsy Ataxic
+Cerebral Palsy Children
+Cerebral Palsy Infantile
+Cerebral Palsy Quadriplegic
+Cerebral Palsy Spastic Diplegia
+Cerebral Palsy Spastic Hemiplegic
+Cerebral Palsy and Botulinum Toxin
+Cerebral Palsy and Healthy Individuals
+Cerebral Palsy, Congenital
+Cerebral Palsy, Diplegic, Infantile
+Cerebral Palsy, Dyskinetic
+Cerebral Palsy, Mixed
+Cerebral Palsy, Monoplegic
+Cerebral Palsy, Spastic
+Cerebral Palsy, Spastic Hemiplegic
+Cerebral Palsy, Spastic, Diplegic
+Cerebral Palsy.
+Cerebral Palsy;
+Children With Cerebral Palsy
+Chorea Associated With Huntington Disease
+Chorea, Huntington
+Chronic Traumatic Encephalopathy
+Chronic Traumatic Encephalopathy (CTE)
 Cirrhosis Related Parkinsonism
+Cognitive Decline Due to Alzheimer Disease
+Corticobasal Degeneration
+Corticobasal Degeneration (CBD)
+Corticobasal Degeneration Syndrome
+Cranial Nerve Palsy
+Dementia Alzheimer's Type
+Dementia Alzheimers
 Dementia Associated With Parkinson's Disease
 Dementia Frontotemporal
 Dementia MCI (Mild Cognitive Impairment)
@@ -32,15 +174,33 @@ Dementia With Lewy Body Disease
 Dementia With Parkinson's Disease
 Dementia in Parkinson's Disease
 Dementia in Parkinsons Disease
+Dementia of Alzheimer Type
+Dementia of Alzheimer's Type
+Dementia of Type Alzheimer
+Dementia of the Alzheimer Type
+Dementia of the Alzheimer's Type
+Dementia, Alzheimer Type
+Dementia, Alzheimer, Electronic Health Records, Hospitalizations, Epidemiology, Comorbidity, United Kingdom, Incidence, Mortality, Cause of Death
+Dementia; Alzheimer's Type (Etiology)
+Dementia; Alzheimer, Mixed Type (Etiology)
+Demential Alzheimer Patient
 Depression in Parkinson's Disease
 Diagnosed of Mild Cognitive Impairment
+Diet, Polyphenols, Flavonoids, Stilbenes, Aged, Dementia, Alzheimer's Disease, Epidemiology
 Diffuse Lewy Body Disease
+Diplegic Cerebral Palsy
+Diplegic Cerebral Palsy With Spasticity
+Disease Alzheimer
 Drug Induced Parkinson's Disease
 Drug Induced Parkinsonism
 Drug-induced Parkinsonism
 Drug-naïve Patients With Parkinson's Disease
+Dyskinetic Cerebral Palsy Due to Perinatal Hypoxia
 Dystonia-Parkinsonism, Adult-Onset
+Dystonic Cerebral Palsy
+Early Alzheimer's Disease
 Early Mild Cognitive Impairment (EMCI)
+Early Onset Alzheimer Disease
 Early Onset Parkinson Disease
 Early Parkinson Disease
 Early Parkinson Disease (Early PD)
@@ -49,7 +209,20 @@ Early Stage Parkinson Disease
 Early Stage Parkinson's Disease
 Early-Stage Parkinson's Disease
 Early-stage Parkinson's Disease
+Emergence Deliruim; Cerebral Palsy
+Equinus Foot Deformity in Children With Cerebral Palsy
+Erbs Palsy
+FTD With Amyotrophic Lateral Sclerosis (FTD/ALS)
+Facial Nerve Palsy
+Facial Palsy
+Familial Alzheimer Disease (FAD)
+Familial Amyotrophic Lateral Sclerosis
 Familial Frontotemporal Dementia
+Family Caregiver of Patient With Alzheimer Disease
+Family History of Alzheimer's Disease
+Fifth Nerve Palsy
+Fourth Cranial Nerve Palsy
+Fourth Nerve Palsy
 Frontotemporal Degeneration
 Frontotemporal Degeneration (FTD)
 Frontotemporal Dementia
@@ -63,8 +236,25 @@ Frontotemporal Lobar Degeneration With Tau Inclusions
 Frontotemporal Lobe Dementia
 GRN Related Frontotemporal Dementia
 Gastrointestinal Disorders in Parkinson's Disease
+Genetic Risk for Alzheimer's Disease
 Glaucoma and Mild Cognitive Impairment
+HEMIPLEGIC CEREBRAL PALSY
+Health Volunteers, Huntington Disease
+Healthy Subjects, Patients With Amyotrophic Lateral Sclerosis, Patients With Shoulder Surgery
+Healthy Volunteer, Alzheimer's Disease
 Healthy Volunteers
+Hemiparetic Cerebral Palsy
+Hemiplegic Cerebral Palsy
+Hemiplegic Cerebral Palsy With Spasticity (Diagnosis)
+Horizontal Gaze Palsy
+Horizontal Gaze Palsy With Progressive Scoliosis
+Huntington Disease
+Huntington Disease, Juvenile
+Huntington's Chorea
+Huntington's Dementia
+Huntington's Disease
+Huntington's Disease (HD)
+Hypotonic Cerebral Palsy
 IDIOPATHIC PARKINSON'S DISEASE
 Idiopathic Parkinson Disease
 Idiopathic Parkinson Patients
@@ -76,7 +266,10 @@ Inclusion Body Myopathy With Early-onset Paget Disease and Frontotemporal Dement
 Inclusion Body Myopathy With Early-onset Paget Disease and Frontotemporal Dementia (IBMPFD)
 Interest of Hydrophysiotherapy Care in Parkinson Disease's Non-motor Symptoms
 Late Mild Cognitive Impairment (LMCI)
+Late Onset Alzheimer
+Late Onset Alzheimer Disease
 Late Stage Parkinson's Disease
+Lateral Amyotrophic Sclerosis
 Levodopa Induced Dyskinesia in Patients With Parkinson's Disease
 Lewy Body Dementia
 Lewy Body Dementia (LBD)
@@ -85,7 +278,17 @@ Lewy Body Dementia With Behavioral Disturbance (Disorder)
 Lewy Body Disease
 Lewy Body Parkinson Disease
 Lewy Body Parkinson's Disease
+Lewy Body Variant of Alzheimer Disease
+Lower Limb Spasticity Due to Cerebral Palsy
+Lower Limb and Combined Lower Limb and Upper Limb Spasticity Due to Cerebral Palsy
 MCI
+MCI With Increased Risk for Alzheimer Disease
+MILD COGNITIVE IMPAIRMENT
+MSA
+MSA - Multiple System Atrophy
+Magnesium Therapy on Cerebral Palsy Patients
+Mild Alzheimer's Disease
+Mild CognitIve Impairment
 Mild Cognitive Impairment
 Mild Cognitive Impairment (MCI)
 Mild Cognitive Impairment (Vascular)
@@ -95,20 +298,62 @@ Mild Cognitive Impairment and Vascular Subcortical Ischemia
 Mild Cognitive Impairment(MCI)
 Mild Cognitive Impairment, Dementia
 Mild Cognitive Impairment, So Stated
+Mild and Moderate Alzheimer's Disease
+Mild to Moderate Alzheimer Disease
+Mild to Moderate Alzheimer's Disease
+Mild to Moderate Dementia Due to Alzheimer's Disease
+Mild to Severe Alzheimer's Disease
+Mild-Moderate Alzheimer's Disease
+Mild-To-Moderate Alzheimer's Disease
+Mild-moderate Alzheimer's Disease
+Mild-to-moderate Alzheimer's Disease Patients
+Moderate Alzheimer's Disease
+Moderate to Severe Alzheimer
+Moderate to Severe Alzheimer Patients
+Moderate-to-severe Alzheimer's Disease
+Monomelic Amyotrophy
+Motor Neuron Disease / Amyotrophic Lateral Sclerosis
+Motor Neuron Disease, Amyotrophic Lateral Sclerosis
 Movement Disorders (Incl Parkinsonism)
+Multiple System Atrophy
+Multiple System Atrophy (MSA)
+Multiple System Atrophy (MSA) With Orthostatic Hypotension
+Multiple System Atrophy - Cerebellar Subtype (MSA-C)
 Multiple System Atrophy - Parkinsonian Subtype (MSA-P)
+Multiple System Atrophy, Cerebellar Type
+Multiple System Atrophy, Cerebellar Variant
+Multiple System Atrophy, Cerebellar Variant (Disorder)
+Multiple System Atrophy, MSA
 Multiple System Atrophy, Parkinson Variant
 Multiple System Atrophy, Parkinson Variant (Disorder)
 Multiple System Atrophy, Parkinsonian Type
+Multiple Systems Atrophy
+Muscle Cramps in Amyotrophic Lateral Sclerosis
+Neonatal Brachial Plexus Palsy
+Nerve Palsy
+Neuralgic Amyotrophy
+Neuralgic Amyotrophy, Hereditary
+Neuro: Cerebral Palsy
 Neurogenic Orthostatic Hypotension in Parkinson's Disease
+Non-Alzheimer Degenerative Dementia
 Nonamnestic Mild Cognitive Impairment
+Obstetrical Brachial Plexus Palsy
+Oculomotor Nerve Palsy
 Off Episodes of Parkinson Disease
+Oligosymptomatic Progressive Supranuclear Palsy
+Oligosymptomatic/Variant Progressive Supranuclear Palsy (o/vPSP)
+Orthopedic Complications in Cerebral Palsy
 Orthostatic; Hypotension, Parkinsonism
+Other Infantile Cerebral Palsy
 Overactive Bladder in Parkinson's Disease
 Oxidative Stress is an Important Cause of Parkinson's Disease
 PARKINSON DISEASE (Disorder)
 PD
 PD - Parkinson's Disease
+PSP
+PSP - Progressive Supranuclear Palsy
+Palsy
+Palsy Supranuclear
 Parkinson
 Parkinson Disease
 Parkinson Disease (Autosomal Recessive, Early Onset) 7, Human
@@ -190,31 +435,81 @@ Parkinsons Disease With Dementia (PDD)
 Parkinsons Disease With Mild to Moderate Memory and/or Thinking Problems
 Parkinsons's Disease
 Parkinson´s Disease
+Patients With Alzheimer's Disease
 Patients With CLL Refractory (SD, PD or CR/PR < 6 Months) Following no More Than Two Prior Treatment Lines
 Patients With Mild Cognitive Impairment
 Patients With Parkinson's Disease
+Peripheral Facial Palsy
+Peroneal Palsy (Foot Drop)
 Photo Neuro-Modulation Therapy, Mild Cognitive Impairment
+Phrenic Nerve Palsy
+Phrenic Nerve Palsy on the Left
+Phrenic Nerve Palsy on the Right
 Post-Infectious Parkinsonism
 Post-stroke Dementia, Vascular Mild Cognitive Impairment
 Postural and Suprapostural Performance During Dual Tasking in Patients With Parkinson's Disease
 Pre-motor Parkinson Disease
 Pre-motor Parkinson's Disease
+Preclinical Alzheimer
+Preclinical Alzheimer's Disease
+Predemential Alzheimer Patient
+Presenile Alzheimer Dementia
+Presymptomatic Huntington Disease
 Primary Parkinsonism
+Primary Progressive Aphasia With Suspected Alzheimer's Disease
+Primary Tauopathy Corticobasal Degeneration Syndrome (CBD)
+Probable Alzheimer Disease
+Probable Alzheimer's Disease
+Prodromal Alzheimer's Disease
+Progressive Supranuclear Palsy
+Progressive Supranuclear Palsy (PSP)
+Psychosis and Behavioral Disturbances Associated With Dementia of the Alzheimer's Type
+Quadriplegic Cerebral Palsy
+Radial Nerve Palsy
+Radial Palsy
 Rapid Onset Dystonia Parkinsonism
+Recurrent Laryngeal Nerve Palsy
+Risk Factors of Vocal Cord Palsy
 Secondary Parkinsonism
 Secondary Vascular Parkinson Disease
+Senile Dementia, Alzheimer Type
+Seventh Nerve Palsy
+Severe Alzheimer Disease
+Severe Alzheimer's Disease
 Sialorrhea Secondary to Parkinson's Disease
+Sixth Nerve Palsy
 Sleep-wake Disturbances in Motor-phase Parkinson's Disease
+Spastic Cerebral Palsy
+Spastic Cerebral Palsy (sCP)
+Spastic Diplegia Cerebral Palsy
+Spastic Diplegic Cerebral Palsy
+Spastic Hemiplegic Cerebral Palsy
+Spasticity Due to Cerebral Palsy
+Spasticity Related to Any Cause Except Cerebral Palsy
+Sporadic Amyotrophic Lateral Sclerosis
 Stroke, Parkinson' s Disease, Neurological Impairments, Tele-rehabilitation
 Study the Role of SHMT1 Polymorphism in Parkinson Disease
+Superior Oblique Muscle Palsy
+Superior Oblique Palsy
+Superior Rectus Palsy
+Supranuclear Palsy, Progressive
+Suspected Alzheimer's Disease (AD)
+Suspected Chronic Traumatic Encephalopathy (CTE) or Traumatic Encephalopathy Syndrome (TES)
 Symptomatic Parkinson Disease
+Third Nerve Palsy
+To Evaluate the Possible Benefit of Astaxanthin on Alzheimer Disease
 Treatment of Depression in Adults With Parkinson's Disease (PD)
 Tremor Associated With Tremor Dominant Parkinson's Disease
+Trochlear Nerve Palsy
+Unilateral Cerebral Palsy
+Unilateral Spastic Cerebral Palsy
+Vascular Cognitive Impairment, Alzheimer's Disease, Fronto-temporal Dementia
 Vascular Mild Cognitive Impairment
 Vascular Parkinsonism
 Very Early Stage of Parkinson's Disease
 Virtual Reality; Rehabilitation; Parkinson's Disease
 Visual Attention in Parkinson's Disease
+Vocal Fold Palsy
 Voice Quality and Voice Loudness Associated With Parkinson's Disease
 Wolf Parkinson White Syndrome
 Wolff-Parkinson-White Syndrome
